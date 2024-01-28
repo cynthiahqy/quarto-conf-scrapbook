@@ -3,3 +3,6 @@ title: "Glossary"
 format: html
 ---
 
+important term or concept
+
+:   definition

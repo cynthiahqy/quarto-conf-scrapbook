@@ -1,11 +1,16 @@
 ---
-title: "About posit::conf(2023)"
+title: "Conference Information & Logistics"
 format: html
 ---
 
-## About posit::conf(2023)
+<!---
+- link to conference website
+- conference description
+- submission deadlines etc.
+- incidental logistics
+--->
 
-[:link: posit.co/conference](https://posit.co/conference/)
+## About the conference
 
-Four conference tracks highlight the exciting work being done across the R, PyData, & Posit landscape in two jam-packed days. Hear from some of the most thoughtful practitioners and effective speakers in science, industry, and technology.
+## Pre-Conference Information
 

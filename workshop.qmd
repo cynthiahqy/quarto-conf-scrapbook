@@ -1,0 +1,24 @@
+---
+title: ""
+format: html
+---
+
+## Workshop Information
+
+<!-- 
+- link to workshop resources
+- workshop description
+--->
+
+## Workshop Preparation
+
+<!---
+- any preparatory work
+--->
+
+## Workshop Notes
+
+### Session 1
+
+### Session 2
+

@@ -2,18 +2,21 @@
 title: "A Super Interesting Conference"
 ---
 
-## Schedule
+## Schedule & Logistics
 
-Link to schedule
+<!--- easy access links and information --->
 
-Attended sessions:
+[:link: Schedule]()
+[:link: Full Scientific Program]()
+
+<!--- listing of attended sessions based on conf-notes --->
+
+## Follow-Up
+
+<!--- todo list --->
 
 ## Inbox
 
-### Chat with Interesting Person
+<!-- dumping ground for notes, links, ideas, conversations -->
 
-- [ ] read paper about...
-- :bulb: what about combining strawberries with goats cheese?
-
-### Thing to file away later
 

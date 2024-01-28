@@ -1,0 +1,11 @@
+---
+title: "About posit::conf(2023)"
+format: html
+---
+
+## About posit::conf(2023)
+
+[:link: posit.co/conference](https://posit.co/conference/)
+
+Four conference tracks highlight the exciting work being done across the R, PyData, & Posit landscape in two jam-packed days. Hear from some of the most thoughtful practitioners and effective speakers in science, industry, and technology.
+

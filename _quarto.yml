@@ -1,0 +1,42 @@
+project:
+  type: website
+
+website:
+  title: "Conference/Course Title"
+  page-navigation: true
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - sidebar:workshop
+      - sidebar:conference
+      - sidebar:misc
+  sidebar: 
+    - id: workshop
+      style: "docked"
+      title: "Workshop"
+      contents:
+        - workshop-01.qmd
+        - workshop-02.qmd
+    - id: conference
+      title: "Conference"
+      contents:
+      - auto: conf-notes
+      - conf-about.qmd
+    - id: misc
+      title: "Misc"
+      contents:
+        - auto: misc
+        - bibliography.qmd
+   
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 4
+    toc-location: left
+    from: markdown+emoji
+    citation-location: margin

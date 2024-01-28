@@ -1,0 +1,9 @@
+---
+title: "Bibliography"
+nocite: "@*"
+citation-location: document
+---
+
+::: {#refs}
+:::
+

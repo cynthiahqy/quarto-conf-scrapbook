@@ -1,0 +1,19 @@
+---
+title: "A Super Interesting Conference"
+---
+
+## Schedule
+
+Link to schedule
+
+Attended sessions:
+
+## Inbox
+
+### Chat with Interesting Person
+
+- [ ] read paper about...
+- :bulb: what about combining strawberries with goats cheese?
+
+### Thing to file away later
+

@@ -1,13 +1,13 @@
 ---
-title: "A Super Interesting Conference"
+title: "Home"
 ---
 
 ## Schedule & Logistics
 
 <!--- easy access links and information --->
 
-[:link: Schedule]()
-[:link: Full Scientific Program]()
+* [:link: Schedule]()
+* [:link: Full Scientific Program]()
 
 <!--- listing of attended sessions based on conf-notes --->
 

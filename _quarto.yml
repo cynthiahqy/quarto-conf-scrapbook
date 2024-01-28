@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Conference/Course Title"
+  title: "A Super Interesting and Fun Conference"
   page-navigation: true
   navbar:
     right:
@@ -16,8 +16,7 @@ website:
       style: "docked"
       title: "Workshop"
       contents:
-        - workshop-01.qmd
-        - workshop-02.qmd
+        - workshop.qmd
     - id: conference
       title: "Conference"
       contents:

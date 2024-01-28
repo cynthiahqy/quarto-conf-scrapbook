@@ -1,5 +1,5 @@
 ---
-title: "Day 2 - Workshop"
+title: "Day 1 - Workshop"
 format: html
 ---
 
@@ -17,10 +17,4 @@ Resources:
 
 - [Workshop website and slides](https://posit-conf-2023.github.io/quarto-r/)
 - [Quarto official docs](https://quarto.org)
-
-### Session 1: Intro to Quarto
-
-- You can do lots of cool things with Quarto
-
-### Session 2
 

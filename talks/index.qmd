@@ -1,0 +1,39 @@
+---
+title: "Talk Notes"
+listing:
+    id: talk-listing
+    contents: talk-notes
+    type: table
+    sort-ui: false
+    categories: false
+    field-display-names: 
+      author: "Presenter"
+---
+
+## Talk Listing
+
+::: {#talk-listing}
+:::
+
+## Other Talks
+
+### Becoming an R Package Author (or How I Got Rich Responding to GitHub Issues)
+
+```yaml
+author: Matt Herman
+```
+- <https://www.youtube.com/watch?v=18vfcf46ozE&list=PL9HYL-VRX0oRFZslRGHwHuwea7SvAATHp&index=56>
+- going from user to co-author of `{tidycensus}` 
+- tips:
+    - answer GitHub issues;
+    - fix bugs;
+    - contribute domain knowledge (as vignettes)
+
+### Quickly get your Quarto HTML theme in order
+
+```yaml
+author: Greg Swinehart
+```
+
+- <https://www.youtube.com/watch?v=i2mdxfvm_VY&list=PL9HYL-VRX0oRFZslRGHwHuwea7SvAATHp&index=30>
+- use `{bslib}` to look up SCSS variables

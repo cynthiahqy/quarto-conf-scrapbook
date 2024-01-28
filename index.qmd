@@ -1,19 +1,16 @@
 ---
-title: "A Super Interesting Conference"
+title: "Home"
 ---
 
-## Schedule
+## Reference
 
-Link to schedule
-
-Attended sessions:
+[:tv: Youtube Playlist of Talks](https://www.youtube.com/playlist?list=PL9HYL-VRX0oRFZslRGHwHuwea7SvAATHp)
 
 ## Inbox
 
 ### Chat with Interesting Person
 
-- [ ] read paper about...
-- :bulb: what about combining strawberries with goats cheese?
+-   [ ] read these interesting papers: [@wickham2014; @wickham2014a]
+-   :bulb: what about hexagonal data?
 
-### Thing to file away later
-
+### Thing to file away for later

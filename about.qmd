@@ -1,5 +1,15 @@
 ---
-title: "About"
+title: "About posit::conf(2023)"
 ---
 
-About this site
+## Key Info
+- Sep 17-20, 2023
+- Hyatt Regency Chicago
+
+## Conference Description
+
+[:link: posit.co/conference](https://posit.co/conference/)
+
+> For posit::conf(2023), we have an array of workshops that will feature hands-on exercises, discussions, and Q&A. You can meet, share and collaborate with other conference attendees with similar interests. This year, for the first time, we’re offering a mix of one and two-day workshops so that with your two-day workshop pass, you can choose to go deep into a single topic or spread your time across two topics.
+>
+> Four conference tracks highlight the exciting work being done across the R, PyData, & Posit landscape in two jam-packed days. Hear from some of the most thoughtful practitioners and effective speakers in science, industry, and technology.

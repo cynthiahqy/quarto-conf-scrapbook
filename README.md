@@ -1,1 +1,1 @@
-This is an extended example for the quarto-conf-scrapbook template. It contains notes based on YouTube recordings from posit::conf(2023). The rendered site can be viewed at <https://cynthiahqy.quarto.pub/positconf2023-scrapbook/>
+This is an extended example for the quarto-conf-scrapbook template. It contains dummy content and notes based on YouTube recordings from posit::conf(2023). The rendered site can be viewed at <https://cynthiahqy.quarto.pub/positconf2023-scrapbook/>

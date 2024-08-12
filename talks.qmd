@@ -1,13 +1,7 @@
 ---
 title: "Talk Notes"
-listing:
-    id: talk-listing
-    contents: talk-notes
-    type: table
-    sort-ui: false
-    categories: false
-    field-display-names: 
-      author: "Presenter"
+metadata-files: 
+  - talks/_listing.yml
 ---
 
 ## Talk Listing

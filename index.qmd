@@ -1,16 +1,27 @@
 ---
 title: "Home"
+metadata-files: 
+  - talks/_listing.yml
 ---
+
+## Talk Notes
+
+::: {#talk-listing}
+:::
 
 ## Reference
 
-[:tv: Youtube Playlist of Talks](https://www.youtube.com/playlist?list=PL9HYL-VRX0oRFZslRGHwHuwea7SvAATHp)
+- [:tv: Playlist of Talks (Youtube)](https://www.youtube.com/playlist?list=PL9HYL-VRX0oRFZslRGHwHuwea7SvAATHp)
 
 ## Inbox
 
 ### Chat with Interesting Person
 
--   [ ] read these interesting papers: [@wickham2014; @wickham2014a]
+-   follow up:
+    -   [ ] read @wickham2014
+    -   [ ] check out @wickham2014a
 -   :bulb: what about hexagonal data?
 
-### Thing to file away for later
+### Random Thoughts
+
+- Which hexstickers do I want to hunt down?

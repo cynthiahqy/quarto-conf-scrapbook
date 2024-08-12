@@ -1,0 +1,8 @@
+listing:
+    id: talk-listing
+    contents: talks
+    type: table
+    sort-ui: false
+    categories: false
+    field-display-names: 
+      author: "Presenter"

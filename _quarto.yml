@@ -8,21 +8,12 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
-      - sidebar:workshop
-      - sidebar:conference
+      - href: workshop.qmd
+        text: Workshop
+      - href: talks.qmd
+        text: Talks
       - sidebar:misc
   sidebar: 
-    - id: workshop
-      style: "docked"
-      title: "Workshop"
-      contents:
-        - auto: workshops
-    - id: conference
-      title: "Conference"
-      contents:
-      - talks/index.qmd
     - id: misc
       title: "Misc"
       contents:
@@ -33,7 +24,7 @@ bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+    theme: sketchy
     css: styles.css
     toc: true
     toc-depth: 4

@@ -4,8 +4,6 @@ metadata-files:
   - talks/_listing.yml
 ---
 
-## Talk Listing
-
 ::: {#talk-listing}
 :::
 

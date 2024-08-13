@@ -4,6 +4,8 @@ metadata-files:
   - talks/_listing.yml
 ---
 
+![](images/paste-1.png)
+
 ## Talk Notes
 
 ::: {#talk-listing}
@@ -11,7 +13,7 @@ metadata-files:
 
 ## Reference
 
-- [:tv: Playlist of Talks (Youtube)](https://www.youtube.com/playlist?list=PL9HYL-VRX0oRFZslRGHwHuwea7SvAATHp)
+-   [:tv: Playlist of Talks (Youtube)](https://www.youtube.com/playlist?list=PL9HYL-VRX0oRFZslRGHwHuwea7SvAATHp)
 
 ## Inbox
 
@@ -24,4 +26,4 @@ metadata-files:
 
 ### Random Thoughts
 
-- Which hexstickers do I want to hunt down?
+-   Which hexstickers do I want to hunt down?
